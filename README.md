@@ -1,3 +1,4 @@
 # demo
-this is demo repo
-authar - Ananya L
+This is a demo repo.
+<br>
+Author - Ananya L
